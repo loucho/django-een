@@ -1,0 +1,17 @@
+img:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    background-image: url(./no-image.png);
+}
+
+.card {
+    width: 25rem;
+    margin-bottom: 10px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
