@@ -25,3 +25,7 @@ I added a pdf file with some documentation here: [EagleEyeNetwork(48hr).pdf](doc
 ## Previous version
 
 This is the second "version" of this skill test (at the 48 hr mark), the first one (at the 24 hr mark) can be found here: [https://github.com/loucho/image-download](https://github.com/loucho/image-download)
+
+## Live Preview
+
+A live version of this project (running on a EBS instance in AWS) can be found here: [http://django-env.nqzhivpfhv.us-west-2.elasticbeanstalk.com/cameras/](http://django-env.nqzhivpfhv.us-west-2.elasticbeanstalk.com/cameras/)
