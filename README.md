@@ -21,3 +21,7 @@ and finally run the Django project
 ## Documentation
 
 I added a pdf file with some documentation here: [EagleEyeNetwork(48hr).pdf](docs/EagleEyeNetwork(48hr).pdf)
+
+## Previous version
+
+This is the second "version" of this skill test (at the 48 hr mark), the first one (at the 24 hr mark) can be found here: [https://github.com/loucho/image-download](https://github.com/loucho/image-download)
