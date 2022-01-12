@@ -7,7 +7,7 @@ Django==2.1.1
 gevent==1.4.0
 greenlet==0.4.15
 idna==2.8
-pipenv==2018.11.26
+pipenv==2022.1.8
 pycparser==2.19
 pyOpenSSL==19.0.0
 PyScaffold==3.2.2
